@@ -2,7 +2,7 @@ spring:
   application:
     name: SpringProject
   datasource:
-    url: jdbc:postgresql://localhost:5432/dbecole
+    url: jdbc:postgresql://ep-divine-forest-a5jech56.us-east-2.aws.neon.tech/dbecole?user=dbecole_owner&password=Mm5KUCQSD7EJ&sslmode=require
     username: oumar
     password: passer123
     driver-class-name: org.postgresql.Driver
