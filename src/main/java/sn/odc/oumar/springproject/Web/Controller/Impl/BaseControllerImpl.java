@@ -1,4 +1,4 @@
-package sn.odc.oumar.springproject.Web.Controller;
+package sn.odc.oumar.springproject.Web.Controller.Impl;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
